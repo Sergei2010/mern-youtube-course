@@ -24,7 +24,6 @@
     "express-validator": "^6.9.2",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.11.15",
-    "react-scripts": "^4.0.2",
     "shortid": "^2.2.16"
   },
   "devDependencies": {
